@@ -14,6 +14,7 @@ It is built on ROS 2 and is intended for environmental research, wildlife tracki
 - Use ROS 2 for modular robot control and camera data processing.
 
 ## Hardware Overview
+![IMG_0572](https://github.com/user-attachments/assets/3b19b37b-cea0-4df8-9960-9dc3053b9b6c)
 
 - Differential drive mobile robot
 - Pan-tilt rotating camera 
